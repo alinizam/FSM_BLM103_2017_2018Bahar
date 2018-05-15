@@ -24,6 +24,7 @@ public class Test {
     
         IHareket malzemeIslem=f1;
         malzemeIslem.add(new Malzeme());
+        
 
     }
 }
